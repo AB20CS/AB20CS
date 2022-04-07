@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB20CS&layout=compact)](https://github.com/AB20CS/github-readme-stats)
 
 - 👋 Hi, I’m Anindro!
-- 📚 I’m currently studying **Computer Science**💻 and **Molecular Biology**🧬 at the [University of Toronto](utoronto.ca).
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/) or check out [my website]()!
+- 📚 I’m currently studying **Computer Science**💻 and **Molecular Biology**🧬 at the [University of Toronto](https://utoronto.ca).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/) or check out [my website](https://bit.ly/AB20CS)!
