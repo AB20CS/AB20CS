@@ -1,7 +1,15 @@
-![Anindro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AB20CS&show_icons=true&theme=gruvbox) 
-
+## About Me! ⭐
+```javascript
+const anindro = {
+  pronouns: "he" | "him",
+  programs: "Computer Science 💻" & "Molecular Biology 🧬",
+  institution: "University of Toronto 📚",
+  current_lab: "Machine Learning and Computational Healthcare Lab",
+  interests: ["Machine Learning 🤖", "Computational Medicine 🩺", "Data Science 🗃️", "Software Development ⌨️"],
+  skills: ["Python 🐍", "C", "Java ☕", "Unix 🖥️", "Statistical Machine Learning 📈", "Deep Learning 🧠", "Causal Inference 🕸️"],
+}
+```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB20CS&layout=compact)](https://github.com/AB20CS/github-readme-stats)
 
-- 👋 Hi, I’m Anindro!
-- 📚 I’m currently studying **Computer Science**💻 and **Molecular Biology**🧬 at the [University of Toronto](https://utoronto.ca).
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/) or check out [my website](https://bit.ly/AB20CS)!
+## Contact 📫
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/) or check out [my website](https://bit.ly/AB20CS)!
