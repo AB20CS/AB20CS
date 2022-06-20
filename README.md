@@ -5,7 +5,7 @@ const anindro = {
   programs: "Computer Science 💻" & "Molecular Biology 🧬",
   institution: "University of Toronto 📚",
   current_lab: "Machine Learning and Computational Healthcare Lab",
-  interests: ["Machine Learning 🤖", "Computational Medicine 🩺", "Data Science 🗃️", "Software Development ⌨️"],
+  interests: ["Machine Learning 🤖", "Computational Medicine 🩺", "Data Science 🗃️", "Software Engineering ⌨️"],
   skills: ["Python 🐍", "C", "Java ☕", "Unix 🖥️", "Machine Learning 📈", "Deep Learning 🧠", "Causal Inference 🕸️"],
 }
 ```
