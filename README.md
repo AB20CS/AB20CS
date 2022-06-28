@@ -1,7 +1,6 @@
 ## About Me! ⭐
 ```javascript
 const anindro = {
-  pronouns: "he" | "him",
   programs: "Computer Science 💻" & "Molecular Biology 🧬",
   institution: "University of Toronto 📚",
   current_lab: "Machine Learning and Computational Healthcare Lab",
