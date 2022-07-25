@@ -5,7 +5,7 @@ const anindro = {
   institution: "University of Toronto 📚",
   current_lab: "Machine Learning and Computational Healthcare Lab",
   interests: ["Machine Learning 🤖", "Computational Medicine 🩺", "Data Science 🗃️", "Software Engineering ⌨️"],
-  skills: ["Python 🐍", "C", "Java ☕", "Unix 🖥️", "Machine Learning 📈", "Deep Learning 🧠", "Causal Inference 🕸️"],
+  skills: ["Python 🐍", "C", "Java ☕", "Unix 🖥️", "Machine Learning 📈", "Deep Learning 🧠", "Causal Inference ➡️"],
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB20CS&layout=compact)](https://github.com/AB20CS/github-readme-stats)
