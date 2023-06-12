@@ -1,7 +1,7 @@
 ## About Me! ⭐
 ```javascript
 const anindro = {
-  programs: "Computer Science 💻" & "Molecular Biology 🧬",
+  programs: ["Computer Science 💻", "Molecular Biology 🧬"],
   institution: "University of Toronto 📚",
   current_position: "Clinical Programming and Data Science Intern @ AstraZeneca 💊",
   current_lab: "Machine Learning and Computational Healthcare Lab",
