@@ -1,7 +1,7 @@
 ## About Me! ⭐
 ```javascript
 const anindro = {
-  program: ["Bioengineering 💻 🧬"],
+  program: "Bioengineering 💻 🧬",
   institution: "University of Pennsylvania 📚",
   current_lab: "Advanced Cardiovascular Imaging Lab",
   interests: ["Machine Learning 🤖", "Computational Medicine 🩺", "Data Science 🗃️", "Software Engineering ⌨️"],
