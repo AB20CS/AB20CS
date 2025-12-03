@@ -10,4 +10,4 @@ const anindro = {
 ```
 
 ## Contact 📫
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/) or check out [my website](https://ab20cs.github.io/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anindro/)!
